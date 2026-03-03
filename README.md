@@ -3,7 +3,7 @@ This is my first game and project I have built. For context, I am a new creator 
 
 Usage instructions 🧾:
 
-  For this program, you only need python (ideally the latest version) and the two files (Gambling.py and blacklist.txt) located in the releases tab to play. To launch the game, just double click on the python file and run with python (default).
+  For this program, you only need python (ideally the latest version) and the two files (Gambling.py and blacklist.txt) located in the branches where the README file is to play. To launch the game, just double click on the python file and run with python (default).
 
 Features 🎯:
 1. Random Money Generator
